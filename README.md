@@ -10,4 +10,4 @@ My first attempt at reading in the train.csv file and cleaning it in order to ru
 
 hosue_prices_bsturm_ver2.ipynb        
 
-This is my current version of the notebook and is the one someone new to this site should examine.  I'm currently sitting at 1156/2603, which is within the top 45%.  I think I can still do much better with a bit more work.
+This is my current version of the notebook and is the one someone new to this site should examine.  I'm currently sitting at 1156/2603 on the leaderboard, which is within the top 45%.  I think I can still do much better with a bit more work.
