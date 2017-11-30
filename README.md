@@ -1,4 +1,4 @@
-# house_prices
+# Kaggle competition for predicting house prices
 My notebook for house price predictions in Ames, IA
 
 These notebooks show work that I have done so far on the Kaggle competition for predicting house prices in Ames, Iowa.  A description of the notebooks are as follows:
